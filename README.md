@@ -22,8 +22,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Daksha Subbaian
+### Register Number:23003584
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
